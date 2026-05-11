@@ -1,1 +1,6 @@
 # gproc
+
+## Getting Started
+1. Create a virtual environment with `python -m venv .venv`
+2. Activate the environment `.\.venv\Scripts\activate`
+3. Install requirements `pip install -r .\requirements.txt`
